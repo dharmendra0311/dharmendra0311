@@ -7,8 +7,8 @@ I'm **Dharmendra Mallah**, a passionate Fullstack Web Developer who loves buildi
 ### 🚀 What I Do
 
 * 🔥 Fullstack web development (Frontend & Backend)
-* 💡 Love working with modern web technologies[cite: 1]
-* 🛠️ Always experimenting with new tools & frameworks[cite: 1]
+* 💡 Love working with modern web technologies
+* 🛠️ Always experimenting with new tools & frameworks
 
 ---
 
@@ -30,5 +30,5 @@ I'm **Dharmendra Mallah**, a passionate Fullstack Web Developer who loves buildi
 
 ### 💬 Let's Connect
 
-* 📧 Email: dharmendramallah2002@gmail.com[cite: 1]
-* 🐙 GitHub: [dharmendra0311](https://github.com/dharmendra0311)[cite: 1]
+* 📧 Email: dharmendramallah2002@gmail.com
+* 🐙 GitHub: [dharmendra0311](https://github.com/dharmendra0311)
