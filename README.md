@@ -30,5 +30,14 @@ I'm **Dharmendra Mallah**, a passionate Fullstack Web Developer who loves buildi
 
 ### 💬 Let's Connect
 
-* 📧 Email: dharmendramallah2002@gmail.com
+* 📧 Email: [Send Email](mailto:dharmendramallah2002@gmail.com)
 * 🐙 GitHub: [dharmendra0311](https://github.com/dharmendra0311)
+
+<!-- Snake Animation -->
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dharmendra0311/dharmendra0311/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dharmendra0311/dharmendra0311/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dharmendra0311/dharmendra0311/output/github-contribution-grid-snake.svg">
+</picture>
