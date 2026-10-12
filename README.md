@@ -30,12 +30,11 @@ I'm **Dharmendra Mallah**, a passionate Fullstack Web Developer who loves buildi
 
 ### 💬 Let's Connect
 
-* 📧 Email: [Send Email](mailto:dharmendramallah2002@gmail.com)
+* 📧 Email: <a href="mailto:dharmendramallah2002@gmail.com?subject=Collaboration%20Request" target="_blank">Send Email</a>
 * 🐙 GitHub: [dharmendra0311](https://github.com/dharmendra0311)
 
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dharmendra0311/dharmendra0311/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dharmendra0311/dharmendra0311/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dharmendra0311/dharmendra0311/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
 </picture>
